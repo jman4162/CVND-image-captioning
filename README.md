@@ -1,8 +1,6 @@
-# CVND-image-captioning
+# CVND-Image-Captioning-Project
 CNN-RNN image captioning project for Udacity's Computer Vision Nanodegree (CVND) program.
 
-
-# CVND---Image-Captioning-Project
 
 # Instructions  
 1. Clone this repo: https://github.com/cocodataset/cocoapi  
